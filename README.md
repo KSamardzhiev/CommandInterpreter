@@ -76,18 +76,18 @@ The operations supported by these types are the following:
 
 		+ <string> concatenates the two strings
 		
-		+ <`number`> add the number as a string to the end
+		+ <number> add the number as a string to the end
 		
-		* <`number`> repeats the string a <`number`> times
+		* <number> repeats the string a <number> times
 		
 - number
 
-		+ <`number`> add the two numbers
+		+ <number> add the two numbers
 		
-		- <`number`> subtracts the two numbers
+		- <number> subtracts the two numbers
 		
-		* <`number`> multiplies the two numbers
+		* <number> multiplies the two numbers
 		
 - date
 
-		+ <`number`> adds a <`number`> of days
+		+ <number> adds a <number> of days
