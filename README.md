@@ -92,3 +92,23 @@ The operations supported by these types are the following:
 
 		+ <number> adds a <number> of days
 		- <number> subtracts a <number> of days
+
+Example:
+		
+		set hympty string alice
+		Ok
+
+		get humpty
+		[String] alice
+
+		get dumpty
+		Err
+
+		set iter number 5
+		Ok
+
+		calc humpty humpty + iter
+		Ok
+
+		get humpty
+		[String] alice5
