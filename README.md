@@ -74,7 +74,7 @@ The operations supported by these types are the following:
 	
 - string
 
-		+ <`string`> concatenates the two strings
+		+ <string> concatenates the two strings
 		
 		+ <`number`> add the number as a string to the end
 		
