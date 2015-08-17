@@ -112,3 +112,29 @@ Example:
 
 		get humpty
 		[String] alice5
+
+#*Task 1.3*
+
+Polish your code
+
+So far, your command interpreter should have the following commands:
+
+	reverse <string>
+	count-words <string>
+	reverse-words <string>
+	get <variable>
+	set <variable> <type> <value>
+	calc <variable1> <variable2> <operation> <variable3>
+
+Refactor and polish your code roughly following this checklist:
+
+- Format your code and make it readable (fix indentation, variable/class names)
+- Split functionality in meaningful classes and packages (DRY, Separation of concerns, avoid statics, avoid switch, if/else if/)
+- Document your code (classes, methods)
+	- What it does
+	- What does it expect (pre-conditions)
+	- What side-effects does it have (post-conditions)
+	- What consistency does it keep (invariants)
+	- What does it return/throw
+- Add checks for the pre-conditions/input/invariants
+- Add unit tests that verify those
