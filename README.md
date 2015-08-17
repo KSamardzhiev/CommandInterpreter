@@ -73,14 +73,21 @@ The textual representation of the values (e.g their input format for the "set" c
 The operations supported by these types are the following:
 	
 - string
+
 		+ <`string`> concatenates the two strings
+		
 		+ <`number`> add the number as a string to the end
+		
 		* <`number`> repeats the string a <`number`> times
 		
 - number
+
 		+ <`number`> add the two numbers
+		
 		- <`number`> subtracts the two numbers
+		
 		* <`number`> multiplies the two numbers
 		
 - date
+
 		+ <`number`> adds a <`number`> of days
