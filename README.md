@@ -27,7 +27,7 @@ It returns the number of words in the provided string. For example
 	input: count-words abra cadabra
 	output: 2
 
-The **"reverse-words" ** command has the following syntax:
+The **"reverse-words"** command has the following syntax:
 reverse-wrods <`string`>
 It reverse the order of the words in the provided string. For example
 
