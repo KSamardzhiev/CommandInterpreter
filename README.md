@@ -91,3 +91,4 @@ The operations supported by these types are the following:
 - date
 
 		+ <number> adds a <number> of days
+		- <number> subtracts a <number> of days
